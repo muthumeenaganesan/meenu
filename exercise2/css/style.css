@@ -1,0 +1,44 @@
+body{
+width:550px;
+margin:20px auto;
+}
+img{
+float:right;
+margin-right:20px;
+}
+.preview{
+
+float:left;
+
+width:320px;
+
+}
+.meta
+{
+padding-left:0;
+}
+li {
+display:inline;
+padding-right:10px;
+
+}
+.author{
+padding-left:0;
+
+}
+
+
+a{
+
+text-decoration:none;
+}
+ul a-hover{
+color:brown;
+text-decoration:underline;
+}
+.taskbar
+{
+padding-left:1px;
+display:inline;
+font-size:10px;
+}
